@@ -59,8 +59,6 @@ acao-solidaria-brasil/
 ├── imagens/
 └── icones/
 
-yaml
-Copiar código
 
 ---
 
@@ -68,14 +66,6 @@ Copiar código
 - Organização semântica de um documento HTML5.
 - Separação lógica do conteúdo em seções.  
 - Preparação para aplicação de **CSS3** e **design responsivo**.
-
----
-
-## 🚀 Próximos Passos (Etapa 2)
-- Aplicar um **design system com variáveis CSS**.
-- Criar layout **responsivo com Flexbox e Grid**.
-- Implementar **menu dropdown e hambúrguer**.
-- Adicionar **validação de formulários** e componentes interativos.
 
 ---
 
