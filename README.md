@@ -46,6 +46,7 @@ O projeto foi desenvolvido com as principais seções de um site institucional:
 
 ## 📁 Estrutura de Pastas
 
+```text
 acao-solidaria-brasil/
 │
 ├── index.html
@@ -54,14 +55,15 @@ acao-solidaria-brasil/
 ├── contato.html
 │
 ├── css/
-│ └── style.css
+│   └── style.css
 │
 ├── js/
-│ └── script.js
+│   └── script.js
 │
 └── assets/
-├── imagens/
-└── icones/
+    ├── imagens/
+    └── icones/
+
 
 ---
 
