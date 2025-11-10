@@ -63,7 +63,6 @@ acao-solidaria-brasil/
 ├── imagens/
 └── icones/
 
-
 ---
 
 ## 🧠 Aprendizados
