@@ -54,14 +54,14 @@ acao-solidaria-brasil/
 ├── contato.html
 │
 ├── css/
-│   └── style.css
+│ └── style.css
 │
 ├── js/
-│   └── script.js
+│ └── script.js
 │
 └── assets/
-    ├── imagens/
-    └── icones/
+├── imagens/
+└── icones/
 
 
 ---
