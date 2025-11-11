@@ -62,8 +62,7 @@ acao-solidaria-brasil/
 │   └── script.js
 │
 └── assets/
-    ├── imagens/
-    └── icones/
+    └── imagens
 </pre>
 
 ---
